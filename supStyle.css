@@ -1,0 +1,37 @@
+.container{
+margin-left:0 auto;
+margin-right:0 auto;
+display:block;
+}
+h3{
+text-align:center;
+}
+label{
+font-size:14px;
+margin-bottom:20px;
+}
+.myInput{
+padding:10px;
+border-radius:8px;
+border-color:DeepSkyBlue;
+}
+#submitBtn{
+position:absolute;
+left:15em;
+top:5.7em;
+padding:10px;
+background-color:blue;
+color:white;
+border-color:transparent;
+border-radius:8px;
+}
+#submitBtn:hover {
+cursor:pointer;
+transform:scale(1.1,1.1);}
+blockquote{
+padding:5px;
+}
+#blockContainer{
+background-color:MistyRose;
+border-radius:8px;
+}
